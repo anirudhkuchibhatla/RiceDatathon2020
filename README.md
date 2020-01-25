@@ -6,8 +6,8 @@ The final results are in submission.csv. The explanation and presentation are in
 
 
 Team Members:
-  Anirudh Kuchibhatla
-  Josh Kowal 
-  Patrick Chickey
-  Kunal Rai
-  Duncan Salmon
+  * Anirudh Kuchibhatla
+  * Josh Kowal 
+  * Patrick Chickey
+  * Kunal Rai
+  * Duncan Salmon
